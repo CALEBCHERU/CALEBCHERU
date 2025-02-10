@@ -1,18 +1,53 @@
-# 👋 Hi, I’m @CALEBCHERU
+# Hi there! I'm Caleb Cheruiyot 👋
 
-I’ve been passionate about programming since way back, always fascinated by how lines of code can create something amazing.
-Now, I’m on an exciting journey to become a software developer, continually expanding my skills and knowledge in the tech world.
+## 🚀 About Me
 
-- 👀 I’m interested in software development and web development, algorithms, and exploring the latest technologies.
-- 🌱 I’m currently learning React, Django, and diving deeper into full-stack development.
-- 💞️ I’m looking to collaborate on open-source projects or any interesting software development challenges.
-- 📫 How to reach me: 
-  - Email: [calebcheruyoit@gmail.com](mailto:calebcheruyoit@gmail.com)
-  - Phone: +254718015950
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: When I’m not coding, I love exploring the outdoors and trying out new tech gadgets.
+I'm a passionate **Full-Stack Web Developer** with expertise in both **Frontend** and **Backend** technologies. In addition to web development, I have a strong background in **Cybersecurity** and **Cloud Computing (AWS)**.
 
-<!---
-CALEBCHERU/CALEBCHERU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 Tech Stack
+
+### 🌐 Frontend
+
+- HTML, CSS, Sass
+- JavaScript (ES6+), TypeScript
+- React.js, Bootstrap
+
+### 🖥️ Backend
+
+- Python (Django, Django REST Framework)
+- Node.js (Express.js)
+- PHP, SQL (MySQL, PostgreSQL)
+
+### ☁️ Cloud & DevOps
+
+- **AWS** (EC2, S3, Lambda, API Gateway, CodeDeploy)
+- Docker, Linux (Kali, Debian-based systems)
+- CI/CD Pipelines
+
+### 🔐 Cybersecurity
+
+- Network Security, VPN Configuration (OpenVPN)
+- Firewalls (iptables)
+- Ethical Hacking & Penetration Testing
+- Secure Web Development
+
+## 📌 Projects
+
+Here are some of my notable projects:
+
+- **Majaliwa Social** - A social media platform built with **ReactJS & Django**
+- **Portfolio Website** - Showcasing my skills and experience
+- **E-commerce Platform** - Full-stack online store using **React, Django, and AWS**
+- **Network Mapper** - A security tool for mapping networks on Kali Linux
+- Malware development
+
+## 📫 Connect With Me
+
+- **Email**: [calebcheruyoit@gmail.com](mailto\:calebcheruyoit@gmail.com)
+- **LinkedIn**: [www.linkedin.com/in/caleb-cheruyoit-3782192a4](http://www.linkedin.com/in/caleb-cheruyoit-3782192a4)
+- **GitHub**: [github.com/CalebCheruyot](#)
+
+---
+
+🚀 Always learning and building amazing things!
+
