@@ -11,12 +11,24 @@ I'm a passionate **Full-Stack Web Developer** with expertise in both **Frontend*
 - HTML, CSS, Sass
 - JavaScript (ES6+), TypeScript
 - React.js, Bootstrap
+- Nextjs
 
 ### 🖥️ Backend
 
 - Python (Django, Django REST Framework)
 - Node.js (Express.js)
 - PHP, SQL (MySQL, PostgreSQL)
+- FastAPI (python)
+
+  ### •	Programming Languages
+  - Python
+  - C
+  - C++
+  - JavaScript
+  - PHP
+  - Vbs (visual Basic Script)
+  - Power Shell Language script (ps1)
+    
 
 ### ☁️ Cloud & DevOps
 
