@@ -25,7 +25,8 @@ I'm a passionate **Full-Stack Web Developer** with expertise in both **Frontend*
 - CI/CD Pipelines
 
 ### 🔐 Cybersecurity
-
+-PenTesting for websites
+-Malware develpoment
 - Network Security, VPN Configuration (OpenVPN)
 - Firewalls (iptables)
 - Ethical Hacking & Penetration Testing
