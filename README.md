@@ -45,7 +45,7 @@ Here are some of my notable projects:
 
 - **Email**: [calebcheruyoit@gmail.com](mailto\:calebcheruyoit@gmail.com)
 - **LinkedIn**: [www.linkedin.com/in/caleb-cheruyoit-3782192a4](http://www.linkedin.com/in/caleb-cheruyoit-3782192a4)
-- **GitHub**: [github.com/CalebCheruyot](#)
+- **GitHub**: [[github.com/CalebCheruyot](https://github.com/CALEBCHERU)](#)
 
 ---
 
