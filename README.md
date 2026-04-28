@@ -15,7 +15,7 @@ I'm a passionate **Full-Stack Web Developer** with expertise in both **Frontend*
 
 ### 🖥️ Backend
 
--Nextjs (frontend and backend)
+- Nextjs (frontend and backend)
 - Python (Django, Django REST Framework)
 - Node.js (Express.js)
 - PHP, SQL (MySQL, PostgreSQL)
