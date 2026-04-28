@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Web Developer** with expertise in both **Frontend** and **Backend** technologies. In addition to web development, I have a strong background in **Cybersecurity** and **Cloud Computing (AWS)**.
+I'm a passionate **Full-Stack Developer** with expertise in both **Frontend** and **Backend** technologies. In addition to web development, I have a strong background in **Cybersecurity** and **Cloud Computing (AWS)**.
 
 ## 💻 Tech Stack
 
